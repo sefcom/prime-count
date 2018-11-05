@@ -1,5 +1,7 @@
 # Prime+Count: Novel Cross-world Covert Channels on ARM TrustZone
 
+Paper: http://www.public.asu.edu/~hcho67/papers/prime+count-acsac18.pdf
+
 ## Brief
 
 - This repository contains codes for Prime+Count paper.
@@ -11,7 +13,7 @@
 
 - Prime+Count implements fast covert channels in single-core and cross-core scenarios in the TrustZone.
 - Prime+Count achieves low-noise covert channel via monitoring how many L1/L2 cache refill events happens.
-- To get full details, See the paper. [1]
+- To get full details, See the paper.
 
 ## How to build
 
@@ -48,9 +50,17 @@
 
 - images/ :  images for experiments.
 
-## References
-
-- [1] Prime+Count: Novel Cross-world Covert Channels on ARM TrustZone (Will be disclosed soon)
+## Publication
+```
+@inproceedings{primecount2018,
+  title        = {{Prime+Count: Novel Cross-world Covert Channels on ARM TrustZone}},
+  author       = {Haehyun Cho, Penghui Zhang, Donguk Kim, Jinbum Park, Choong-hoon Lee, Ziming Zhao, Adam Doupé, and Gail-Joon Ahn},
+  booktitle    = {In Proceedings of the 34th Annual Computer Security Applications Conference (ACSAC)},
+  month        = Dec,
+  year         = 2018,
+  address      = {San Juan, Puerto Rico, USA},
+}
+```
 
 ## License
 
@@ -59,6 +69,5 @@
 
 ## Contact
 
-- Haehyun Cho <hcho67@asu.edu>
+- Haehyun Cho <haehyun@asu.edu>
 - Jinbum Park <jinb.park@samsung.com>, <jinb.park7@gmail.com>
-
