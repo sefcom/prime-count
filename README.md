@@ -54,7 +54,7 @@ Paper: http://www.public.asu.edu/~hcho67/papers/prime+count-acsac18.pdf
 ```
 @inproceedings{primecount2018,
   title        = {{Prime+Count: Novel Cross-world Covert Channels on ARM TrustZone}},
-  author       = {Haehyun Cho, Penghui Zhang, Donguk Kim, Jinbum Park, Choong-hoon Lee, Ziming Zhao, Adam Doupé, and Gail-Joon Ahn},
+  author       = {Cho, Haehyun and Zhang, Penghui and Kim, Donguk and Park, Jinbum and Lee, Choong-hoon and Zhao, Ziming and Doup\'{e}, Adam and Ahn, Gail-Joon},
   booktitle    = {In Proceedings of the 34th Annual Computer Security Applications Conference (ACSAC)},
   month        = Dec,
   year         = 2018,
