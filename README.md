@@ -1,6 +1,6 @@
 # Prime+Count: Novel Cross-world Covert Channels on ARM TrustZone
 
-Paper: http://www.public.asu.edu/~hcho67/papers/prime+count-acsac18.pdf
+Paper: https://haehyun.github.io/papers/prime+count-acsac18.pdf
 
 ## Brief
 
